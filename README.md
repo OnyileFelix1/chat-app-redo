@@ -1,1 +1,1 @@
-.
+Our Chat Application is a real-time communication platform that enables users to connect with each other through individual and group chats. It provides a seamless and interactive chat experience, fostering communication and collaboration.
